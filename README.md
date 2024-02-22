@@ -1,6 +1,6 @@
 # Operating-system-kernel
 
-OS kernel is implemented for **RISC V** architecture and is ran in qemu emulator. No external libraries are used, meaning that it's not allowed to use any host's operating system system calls (threads, memory allocation, semaphores, interrupts etc. ) and everything is written from scratch.
+OS kernel is implemented for **RISC V** architecture and is ran in qemu emulator. No external libraries are used, meaning that it's not allowed to use any host's operating system system calls (threads, memory allocation, semaphores, interrupts etc. ).
 
 ---
 
